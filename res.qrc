@@ -1,0 +1,34 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resource/Clion.png</file>
+        <file>resource/Edge.png</file>
+        <file>resource/Excel.png</file>
+        <file>resource/Huorong.png</file>
+        <file>resource/Davinci.png</file>
+        <file>resource/Lightroom.png</file>
+        <file>resource/PC.png</file>
+        <file>resource/Photoshop.png</file>
+        <file>resource/PowerPoint.png</file>
+        <file>resource/PyCharm.png</file>
+        <file>resource/QQ.png</file>
+        <file>resource/QQMusic.png</file>
+        <file>resource/Garbage.png</file>
+        <file>resource/VisualStudio.png</file>
+        <file>resource/VSCode.png</file>
+        <file>resource/Word.png</file>
+        <file>resource/WeChat.png</file>
+        <file>resource/microsoft.png</file>
+        <file>resource/clash.png</file>
+        <file>resource/JianYing.png</file>
+        <file>resource/mihoyo.png</file>
+        <file>resource/SolidWorks.png</file>
+        <file>resource/Steam.png</file>
+        <file>resource/unity.png</file>
+        <file>resource/VMware.png</file>
+        <file>resource/wegame.png</file>
+        <file>resource/WPSOffice.png</file>
+        <file>resource/ControlPanel.png</file>
+        <file>resource/Setting.png</file>
+        <file>resource/ChatGPT.png</file>
+    </qresource>
+</RCC>
